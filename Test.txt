@@ -7,3 +7,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 # git branch 
 # git checkout -b branch-name
 # git chekcout -b new-local-branch-name remote-branch-name
+# git add .
